@@ -7,21 +7,21 @@
     },
     "devDependencies": {
         "autoprefixer": "^10.4.20",
-        "axios": "^1.7.7",
+        "axios": "^1.20.0",
         "concurrently": "^9.0.1",
-        "laravel-vite-plugin": "^1.0",
-        "postcss": "^8.4.47",
+        "laravel-vite-plugin": "^1.3",
+        "postcss": "^8.5.28",
         "tailwindcss": "^3.4.14",
-        "vite": "^5.0"
+        "vite": "^8.3"
     },
     "dependencies": {
         "@headlessui/vue": "^1.7.23",
         "@heroicons/vue": "^2.1.5",
         "@inertiajs/vue3": "^1.2.0",
-        "@vitejs/plugin-vue": "^5.1.4",
+        "@vitejs/plugin-vue": "^5.2.4",
         "@vueuse/core": "^11.2.0",
         "dayjs": "^1.11.13",
-        "lodash": "^4.17.21",
+        "lodash": "^4.18.1",
         "vue": "^3.5.12",
         "vue-router": "^4.4.5",
         "vuex": "^4.0.2"
